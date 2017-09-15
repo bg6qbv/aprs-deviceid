@@ -112,6 +112,10 @@ mice:
    model: Tracker
    class: tracker
 
+ - suffix: "_X"
+   vendor: avrtx.cn
+   model: AP510
+   class: tracker
 #
 # mic-e legacy devices, with an unique comment suffix and prefix
 #
@@ -827,4 +831,9 @@ tocalls:
    vendor: W7QO
    model: Balloon tracker
    class: tracker
+
+ - tocall: APAV??
+   vendor: BG6QBV & BI7NOR
+   model: AVRTx.cn
+   class: tracker/Igate/Digipeater
 
